@@ -1,0 +1,15 @@
+C:\Users\chiva\Desktop\TesisDocs\ControlHorasDev\ControlHorasDev\bin\Debug\net7.0\ControlHorasDev.exe
+C:\Users\chiva\Desktop\TesisDocs\ControlHorasDev\ControlHorasDev\bin\Debug\net7.0\ControlHorasDev.deps.json
+C:\Users\chiva\Desktop\TesisDocs\ControlHorasDev\ControlHorasDev\bin\Debug\net7.0\ControlHorasDev.runtimeconfig.json
+C:\Users\chiva\Desktop\TesisDocs\ControlHorasDev\ControlHorasDev\bin\Debug\net7.0\ControlHorasDev.dll
+C:\Users\chiva\Desktop\TesisDocs\ControlHorasDev\ControlHorasDev\bin\Debug\net7.0\ControlHorasDev.pdb
+C:\Users\chiva\Desktop\TesisDocs\ControlHorasDev\ControlHorasDev\obj\Debug\net7.0\ControlHorasDev.csproj.AssemblyReference.cache
+C:\Users\chiva\Desktop\TesisDocs\ControlHorasDev\ControlHorasDev\obj\Debug\net7.0\ControlHorasDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chiva\Desktop\TesisDocs\ControlHorasDev\ControlHorasDev\obj\Debug\net7.0\ControlHorasDev.AssemblyInfoInputs.cache
+C:\Users\chiva\Desktop\TesisDocs\ControlHorasDev\ControlHorasDev\obj\Debug\net7.0\ControlHorasDev.AssemblyInfo.cs
+C:\Users\chiva\Desktop\TesisDocs\ControlHorasDev\ControlHorasDev\obj\Debug\net7.0\ControlHorasDev.csproj.CoreCompileInputs.cache
+C:\Users\chiva\Desktop\TesisDocs\ControlHorasDev\ControlHorasDev\obj\Debug\net7.0\ControlHorasDev.dll
+C:\Users\chiva\Desktop\TesisDocs\ControlHorasDev\ControlHorasDev\obj\Debug\net7.0\refint\ControlHorasDev.dll
+C:\Users\chiva\Desktop\TesisDocs\ControlHorasDev\ControlHorasDev\obj\Debug\net7.0\ControlHorasDev.pdb
+C:\Users\chiva\Desktop\TesisDocs\ControlHorasDev\ControlHorasDev\obj\Debug\net7.0\ControlHorasDev.genruntimeconfig.cache
+C:\Users\chiva\Desktop\TesisDocs\ControlHorasDev\ControlHorasDev\obj\Debug\net7.0\ref\ControlHorasDev.dll
